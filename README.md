@@ -1,95 +1,42 @@
 
-Screenshot for Beautifull Village Drawing
-![ScreenShot](/Beautifull%20Village%20draw/screenshot1.JPG) 
 # Computer Graphics Lab Project
    1. [Draw circle using midpoint Algorithm](https://github.com/spporan/Computer-graphics-code/tree/master/Draw%20circle%20using%20midpoint%20Algorithm)
-         *Draw simple circle using midpoint algorithom.
+      *  Draw simple circle using midpoint algorithom.
+      * Screenshots:
+        * ![ScreenShot](/Draw%20circle%20using%20midpoint%20Algorithm/circle.JPG)  
    2. [Draw four star](https://github.com/spporan/Computer-graphics-code/tree/master/Draw%20four%20star)
+      *  Draw a shape using four star .
+      * Screenshots:
+        * ![ScreenShot](/Draw%20four%20star/screenshot.JPG) 
    3. [Draw home](https://github.com/spporan/Computer-graphics-code/tree/master/Draw%20home)
+      *  Draw a simple house using GL_POLYGON and GL_TRIANGLE.
+      * Screenshots:
+        * ![ScreenShot](Draw%20home/homegp.JPG)
    4. [Draw line using DDA](https://github.com/spporan/Computer-graphics-code/tree/master/Draw%20line%20using%20DDA)
+      *  Draw a simple line using DDA Algorithm.
+      * Screenshots:
+        * ![ScreenShot](Draw%20line%20using%20DDA/screenshot.JPG)
    5. [Beautifull Village draw](https://github.com/spporan/Computer-graphics-code/tree/master/Beautifull%20Village%20draw)
+      *  This is the project which was done for the Computer graphic lab project.I draw a beautifull village behind the hill view.
+      * Screenshots:
+        * ![ScreenShot](Beautifull%20Village%20draw/screenshot1.JPG)
 ## Getting Started
+Clone or download above the project and run on codeblock IDE.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Install [codeblocks](http://www.codeblocks.org/) and add [OpenGL](https://en.wikipedia.org/wiki/OpenGL) library.
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+*Initial work* - [Poran](https://github.com/spporan)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
 
