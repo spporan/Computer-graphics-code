@@ -2,6 +2,8 @@
 Screenshot for Beautifull Village Drawing
 ![ScreenShot](/Beautifull%20Village%20draw/screenshot1.JPG) 
 # Computer Graphics Lab Project
+http://github.com - automatic!
+[GitHub](http://github.com)
     [Draw circle using midpoint Algorithm](https://github.com/spporan/Computer-graphics-code/tree/master/Draw%20circle%20using%20midpoint%20Algorithm)    
     [Beautifull Village draw](https://github.com/spporan/Computer-graphics-code/tree/master/Beautifull%20Village%20draw)
     [Beautifull Village draw](https://github.com/spporan/Computer-graphics-code/tree/master/Beautifull%20Village%20draw)
