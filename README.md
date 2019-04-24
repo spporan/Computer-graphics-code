@@ -1,3 +1,3 @@
 
 Screenshot for Beautifull Village Drawing
-![ScreenShot](screenshot1.jpg) 
+![ScreenShot](Beautifull Village draw/screenshot1.jpg) 
