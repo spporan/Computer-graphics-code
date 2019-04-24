@@ -31,9 +31,7 @@ Install [codeblocks](http://www.codeblocks.org/) and add [OpenGL](https://en.wik
 
 ## Authors
 
-*Initial work* - [Poran](https://github.com/spporan)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* work By* - [Poran](https://github.com/spporan)
 
 ## License
 
